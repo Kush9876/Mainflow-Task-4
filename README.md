@@ -14,7 +14,9 @@ Styled User Interface: The calculator has a clean and modern user interface with
 Files
 
 index.html: Contains the structure of the calculator.
+
 styles.css: Provides the styling for the calculator, making it visually appealing.
+
 script.js: Implements the functionality of the calculator, including operations and display updates.
 Usage
 
