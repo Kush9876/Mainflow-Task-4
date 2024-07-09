@@ -6,7 +6,6 @@ This repository contains the code for Task 4 of my internship at Main Flow Servi
 
 Features
 
-Responsive Design: The calculator is designed to be responsive and works seamlessly across different devices.
 Basic Operations: It can perform addition, subtraction, multiplication, and division.
 Clear and Delete: Includes buttons to clear all inputs and delete the last entered number.
 Styled User Interface: The calculator has a clean and modern user interface with a gradient background.
